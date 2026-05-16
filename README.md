@@ -55,8 +55,17 @@ A multi-page interactive Power BI report built on the Super Store dataset, cover
 1. Download `Super_Store.pbix`
 2. Open with **Power BI Desktop** (free download from [Microsoft](https://powerbi.microsoft.com/desktop/))
 3. All data is embedded — no external data source connection required
-
 ---
+
+# 🖥️ Dashboard Preview
+
+
+https://github.com/user-attachments/assets/474ff307-02c6-477d-9c46-1943d235ab77
+
+
+
+
+
 
 ## 👤 Author
 
